@@ -1,0 +1,1 @@
+/home/yc/catkin_ws/devel/.private/fork_msg/share/common-lisp/ros/fork_msg/msg/fork_msg-msg.asd

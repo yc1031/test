@@ -1,0 +1,3 @@
+Symlinking /home/yc/catkin_ws/devel/lib/pkgconfig/return_path_planner.pc
+Symlinking /home/yc/catkin_ws/devel/share/return_path_planner/cmake/return_path_plannerConfig.cmake
+Symlinking /home/yc/catkin_ws/devel/share/return_path_planner/cmake/return_path_plannerConfig-version.cmake

@@ -1,0 +1,56 @@
+[31m[1mCMake Error[0m at /home/yc/catkin_ws/build/fork_msg/cmake/fork_msg-genmsg.cmake:46 (add_custom_target):
+  add_custom_target cannot create target "fork_msg_generate_messages_cpp"
+  because another target with the same name already exists.  The existing
+  target is a custom target created in source directory
+  "/home/yc/catkin_ws/src/fork_msg".  See documentation for policy CMP0002
+  for more details.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:71 (generate_messages)
+
+
+[31m[1mCMake Error[0m at /home/yc/catkin_ws/build/fork_msg/cmake/fork_msg-genmsg.cmake:79 (add_custom_target):
+  add_custom_target cannot create target "fork_msg_generate_messages_eus"
+  because another target with the same name already exists.  The existing
+  target is a custom target created in source directory
+  "/home/yc/catkin_ws/src/fork_msg".  See documentation for policy CMP0002
+  for more details.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:71 (generate_messages)
+
+
+[31m[1mCMake Error[0m at /home/yc/catkin_ws/build/fork_msg/cmake/fork_msg-genmsg.cmake:112 (add_custom_target):
+  add_custom_target cannot create target "fork_msg_generate_messages_lisp"
+  because another target with the same name already exists.  The existing
+  target is a custom target created in source directory
+  "/home/yc/catkin_ws/src/fork_msg".  See documentation for policy CMP0002
+  for more details.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:71 (generate_messages)
+
+
+[31m[1mCMake Error[0m at /home/yc/catkin_ws/build/fork_msg/cmake/fork_msg-genmsg.cmake:145 (add_custom_target):
+  add_custom_target cannot create target "fork_msg_generate_messages_nodejs"
+  because another target with the same name already exists.  The existing
+  target is a custom target created in source directory
+  "/home/yc/catkin_ws/src/fork_msg".  See documentation for policy CMP0002
+  for more details.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:71 (generate_messages)
+
+
+[31m[1mCMake Error[0m at /home/yc/catkin_ws/build/fork_msg/cmake/fork_msg-genmsg.cmake:178 (add_custom_target):
+  add_custom_target cannot create target "fork_msg_generate_messages_py"
+  because another target with the same name already exists.  The existing
+  target is a custom target created in source directory
+  "/home/yc/catkin_ws/src/fork_msg".  See documentation for policy CMP0002
+  for more details.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:71 (generate_messages)
+
+
+make: *** [cmake_check_build_system] Error 1

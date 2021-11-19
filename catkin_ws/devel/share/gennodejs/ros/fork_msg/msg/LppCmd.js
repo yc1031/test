@@ -1,0 +1,1 @@
+/home/yc/catkin_ws/devel/.private/fork_msg/share/gennodejs/ros/fork_msg/msg/LppCmd.js

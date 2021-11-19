@@ -1,0 +1,17 @@
+[01m[K/home/yc/catkin_ws/src/return_path_planner/src/return_path_planner.cpp:[m[K In function ‘[01m[Kbool make_return_path(std::vector<LPP::stGlobalPath>, std::vector<LPP::stWaypointList>, std::vector<LPP::stWwaypointObstractRelation>, std::vector<LPP::stStationMaster>, std::vector<LPP::stStaticObst>, LPP::stGlobalPath)[m[K’:
+[01m[K/home/yc/catkin_ws/src/return_path_planner/src/return_path_planner.cpp:18:31:[m[K [01;31m[Kerror: [m[Kconflicting declaration ‘[01m[Kstd::vector<LPP::stGlobalPath> center_pos[m[K’
+     std::vector<stGlobalPath> [01;31m[Kcenter_pos[m[K;
+                               [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/yc/catkin_ws/src/return_path_planner/src/return_path_planner.cpp:14:18:[m[K [01;36m[Knote: [m[Kprevious declaration as ‘[01m[KLPP::stGlobalPath center_pos[m[K’
+     stGlobalPath [01;36m[Kcenter_pos[m[K;
+                  [01;36m[K^~~~~~~~~~[m[K
+[01m[K/home/yc/catkin_ws/src/return_path_planner/src/return_path_planner.cpp:30:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kcalc_return_path[m[K’ was not declared in this scope
+         [01;31m[Kcalc_return_path[m[K(globalPathList, agf_pos, r0, center_pos, return_path);
+         [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/yc/catkin_ws/src/return_path_planner/src/return_path_planner.cpp:30:9:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kmake_return_path[m[K’
+         [01;36m[Kcalc_return_path[m[K(globalPathList, agf_pos, r0, center_pos, return_path);
+         [01;36m[K^~~~~~~~~~~~~~~~[m[K
+         [32m[Kmake_return_path[m[K
+make[2]: *** [CMakeFiles/return_path_planner.dir/src/return_path_planner.cpp.o] Error 1
+make[1]: *** [CMakeFiles/return_path_planner.dir/all] Error 2
+make: *** [all] Error 2
