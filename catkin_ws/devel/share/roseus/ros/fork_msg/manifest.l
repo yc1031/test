@@ -1,1 +1,0 @@
-/home/yc/catkin_ws/devel/.private/fork_msg/share/roseus/ros/fork_msg/manifest.l

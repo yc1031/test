@@ -1,1 +1,0 @@
-/home/yc/catkin_ws/devel/.private/return_path_planner/lib/pkgconfig/return_path_planner.pc
